@@ -11,7 +11,7 @@ This project creates an ETL (extract, transform, load) pipeline that:
 * Converts and stores data in requested file formats such as (CSV,ORC, JSON, Parquet)
 * Creates visualization using Matplotlib on process data.
 
-For a detailed explanation on the ETL processes used, check out the accompanying [article on medium](https://medium.com/@ayoakinkugbe/a-step-by-step-guide-to-building-an-etl-pipeline-with-apache-spark-using-csv-parquet-and-json-3344050d265d)
+For a detailed explanation on the ETL processes used, check out the accompanying [article on medium](https://medium.com/@ayoakinkugbe/a-step-by-step-guide-to-building-an-etl-pipeline-with-apache-spark-using-rest-api-212e04394b32)
 
 ### Code
 You can find the code for this project [here](https://github.com/ayoakin/REST_API_SPARK_ETL/blob/main/ETL_Pipeline_with_Apache_Spark_using_a_Rest_API.ipynb).
