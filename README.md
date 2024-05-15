@@ -41,3 +41,7 @@ You can access the USA Spending API used for the project here:
 
 * [Toptier Agencies](https://api.usaspending.gov/api/v2/references/toptier_agencies/) - REST API data source
 
+To understand the terminiologies used to describe columns in the data, you can preview this document:
+
+* [Basic Federal Budgeting Terminology](https://github.com/ayoakin/REST_API_SPARK_ETL/blob/main/Basic%20Federal%20Budget%20Terminology1.pdf) - Basic Federal Budgeting Terminology
+
